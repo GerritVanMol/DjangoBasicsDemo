@@ -1,0 +1,16 @@
+# DjangoBasicsDemo
+
+
+### Django when using Django on Windows:
+
+### Create virtual environment
+`python -m venv .venv`
+
+### Then activate that environment
+`. .venv\Scripts\activate`
+
+### Then install Django in that environment
+`pip install django `
+
+### Then create django project named mysite
+`django-admin startproject mysite`
